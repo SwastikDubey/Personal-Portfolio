@@ -198,7 +198,7 @@ span{
     text-align: center;
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
-    min-height: 55vh;
+    min-height: 60vh;
 }
 
 .edu-container .edu-box:hover{
@@ -261,7 +261,7 @@ list-style-position: inside;
     text-align: center;
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
-    min-height: 56vh;
+    min-height: 60vh;
 }
 
 .experience-container .experience-box:hover{
