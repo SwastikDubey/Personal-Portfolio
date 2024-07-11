@@ -198,7 +198,7 @@ span{
     text-align: center;
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
-    min-height: 50vh;
+    min-height: 55vh;
 }
 
 .edu-container .edu-box:hover{
