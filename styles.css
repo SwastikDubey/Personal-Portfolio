@@ -231,7 +231,6 @@ list-style-position: inside;
 /*EXPERIENCE*/
 .experience{
     background: var(--bg-color);
-    margin-bottom: 15rem;
 }
 
 .experience h2{
@@ -244,6 +243,7 @@ list-style-position: inside;
     align-items: center;
     flex-wrap: wrap;
     gap: 8rem;
+    margin-bottom:10rem;
 }
 
 .experience img{
