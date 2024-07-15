@@ -231,7 +231,7 @@ list-style-position: inside;
 /*EXPERIENCE*/
 .experience{
     background: var(--bg-color);
-    margin-bottom: 5rem;
+    margin-bottom: 15rem;
 }
 
 .experience h2{
